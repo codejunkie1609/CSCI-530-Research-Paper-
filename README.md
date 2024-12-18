@@ -1,2 +1,4 @@
-# CSCI-530-Research-Paper-
-Research paper titled "Navigating the Quantum Frontier: A Study of Post-Quantum Cryptography in TLS Integration" LaTeX source files and CC licence
+# CSCI-530-Research-Paper
+Research paper titled "Navigating the Quantum Frontier: A Study of Post-Quantum Cryptography in TLS Integration" LaTeX source files and CC licence.
+
+This paper explores the integration of post-quantum cryptography (PQC) into Transport Layer Security (TLS) to mitigate the emerging threats posed by quantum computing. Highlighting the vulnerabilities of classical cryptography to quantum algorithms such as Shor’s, it emphasizes the urgent need for quantum- resistant solutions. The study evaluates prominent PQC algorithms, including NIST finalists, focusing on their implementation in TLS through hybrid and purely post-quantum approaches. Additionally, the paper outlines future directions for PQC in TLS, including hybrid mechanisms, hardware optimizations, and adapting PQC for resource-constrained environments.
